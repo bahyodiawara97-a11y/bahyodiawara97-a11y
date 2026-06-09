@@ -12,7 +12,7 @@
 Assistant conversationnel d'aide aux démarches administratives (CVEC, CROUS, CAF…) : détection d'intention hybride (ML + règles), détection automatique de la langue (8 langues), et repli **RAG + Mistral** pour les questions hors base.
 **▶ [Démo en ligne](https://huggingface.co/spaces/Bahyo/assistant-nlp-etudiants)** · *Python, Gradio, scikit-learn, TF-IDF, API Mistral*
 
-### Enrichissement automatique d'une ontologie des émotions — Mémoire de M1
+### Enrichissement automatique d'une ontologie des émotions - Mémoire de M1
 Pipeline NLP enrichissant l'ontologie MFOEM à partir du corpus GoEmotions : LLM (Mistral), RAG, explicabilité (XAI). **F1 = 0,91**, 22 relations OWL ajoutées.
 *Python, scikit-learn, owlready2*
 

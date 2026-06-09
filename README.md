@@ -16,7 +16,7 @@ Assistant conversationnel d'aide aux démarches administratives (CVEC, CROUS, CA
 Pipeline NLP enrichissant l'ontologie MFOEM à partir du corpus GoEmotions : LLM (Mistral), RAG, explicabilité (XAI). **F1 = 0,91**, 22 relations OWL ajoutées.
 *Python, scikit-learn, owlready2*
 
-### Détection de textes générés par IA — marqueurs modaux (FR/EN)
+### Détection de textes générés par IA - marqueurs modaux (FR/EN)
 Pipeline bilingue comparant textes humains et textes générés par LLM (corpus HC3, SemEval-2024), avec lexiques modaux et classification de référence.
 *Python, scikit-learn (TF-IDF + régression logistique), pandas*
 
